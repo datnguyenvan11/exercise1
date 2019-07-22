@@ -1,0 +1,11 @@
+/Users/admin/RiderProjects/Exercise1/Exercise1/bin/Debug/netcoreapp2.2/Exercise1.deps.json
+/Users/admin/RiderProjects/Exercise1/Exercise1/bin/Debug/netcoreapp2.2/Exercise1.runtimeconfig.json
+/Users/admin/RiderProjects/Exercise1/Exercise1/bin/Debug/netcoreapp2.2/Exercise1.runtimeconfig.dev.json
+/Users/admin/RiderProjects/Exercise1/Exercise1/bin/Debug/netcoreapp2.2/Exercise1.dll
+/Users/admin/RiderProjects/Exercise1/Exercise1/bin/Debug/netcoreapp2.2/Exercise1.pdb
+/Users/admin/RiderProjects/Exercise1/Exercise1/obj/Debug/netcoreapp2.2/Exercise1.csprojAssemblyReference.cache
+/Users/admin/RiderProjects/Exercise1/Exercise1/obj/Debug/netcoreapp2.2/Exercise1.csproj.CoreCompileInputs.cache
+/Users/admin/RiderProjects/Exercise1/Exercise1/obj/Debug/netcoreapp2.2/Exercise1.AssemblyInfoInputs.cache
+/Users/admin/RiderProjects/Exercise1/Exercise1/obj/Debug/netcoreapp2.2/Exercise1.AssemblyInfo.cs
+/Users/admin/RiderProjects/Exercise1/Exercise1/obj/Debug/netcoreapp2.2/Exercise1.dll
+/Users/admin/RiderProjects/Exercise1/Exercise1/obj/Debug/netcoreapp2.2/Exercise1.pdb
